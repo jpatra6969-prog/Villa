@@ -1,0 +1,11 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix villa-scroll",
+    "build": "npm run build --prefix villa-scroll",
+    "start": "npm run start --prefix villa-scroll",
+    "lint": "npm run lint --prefix villa-scroll"
+  }
+}
